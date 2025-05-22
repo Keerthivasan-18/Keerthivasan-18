@@ -7,11 +7,11 @@
 
 🛠️ I have gained experience with a variety of tools and technologies that support:
 
-Data analysis
+1)Data analysis
 
-Software development
+2)Software development
 
-Backend services
+3)Backend services
 
 
 ## 🌐 Socials:
