@@ -1,5 +1,17 @@
 # 💫 About Me:
-I am currently pursuing my studies at a reputed university, where I am focusing on developing strong foundational and technical skills. My primary career goal is to become a proficient Data Scientist and Backend Developer. Over time, I have gained experience with a variety of tools and technologies that support data analysis, software development, and backend services
+🎓 I am currently pursuing my studies at a reputed university.
+
+💡 I am focused on developing strong foundational and technical skills.
+
+🎯 My primary career goal is to become a proficient Data Scientist and Backend Developer.
+
+🛠️ I have gained experience with a variety of tools and technologies that support:
+
+Data analysis
+
+Software development
+
+Backend services
 
 
 ## 🌐 Socials:
@@ -17,11 +29,5 @@ I am currently pursuing my studies at a reputed university, where I am focusing 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Keerthivasan-18&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Keerthivasan-18&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
