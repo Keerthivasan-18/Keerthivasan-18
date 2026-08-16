@@ -316,15 +316,6 @@ while(alive) {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthivasan-18&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Keerthivasan-18/Keerthivasan-18/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
-</p>
-
----
 
 # 🌱 My Roadmap
 
