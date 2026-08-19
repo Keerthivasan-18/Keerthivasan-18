@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 I'm **Keerthivasan G**, an aspiring **System Designer and Backend Engineer** who is interested in understanding not only *how to write software*, but also **how software actually works at scale**.
 
@@ -111,30 +111,30 @@ I'm building my foundation around the concepts underneath them.
 
 ```text
                     💡 IDEA
-                      │
-                      ▼
-              ┌───────────────┐
-              │  REQUIREMENTS │
-              └───────┬───────┘
-                      │
-                      ▼
-              ┌───────────────┐
-              │   ARCHITECTURE│
-              └───────┬───────┘
-                      │
-          ┌───────────┼───────────┐
-          ▼           ▼           ▼
-       ⚙️ Backend   🗄️ DB      🌐 Network
-          │           │           │
-          └───────────┼───────────┘
-                      ▼
-                 🧪 TESTING
-                      │
-                      ▼
-                 🚀 DEPLOYMENT
-                      │
-                      ▼
-                📊 MONITORING
+                       │
+                       ▼
+               ┌───────────────┐
+               │  REQUIREMENTS │
+               └───────┬───────┘
+                       │
+                       ▼
+               ┌───────────────┐
+               │   ARCHITECTURE│
+               └───────┬───────┘
+                       │
+           ┌───────────┼───────────┐
+           ▼           ▼           ▼
+        ⚙️ Backend   🗄️ DB      🌐 Network
+           │           │           │
+           └───────────┼───────────┘
+                       ▼
+                  🧪 TESTING
+                       │
+                       ▼
+                  🚀 DEPLOYMENT
+                       │
+                       ▼
+                 📊 MONITORING
 ```
 
 I like thinking about the **complete lifecycle of a system**:
@@ -318,6 +318,16 @@ while(alive) {
 
 ---
 
+# 📈 Account Activity
+
+<p align="center">
+  <img src="YOUR_ACCOUNT_ACTIVITY_GRAPH_URL" alt="Account Activity Line Graph" />
+</p>
+
+> Tracking my account activity and usage over time.
+
+---
+
 # 🌱 My Roadmap
 
 ```text
@@ -330,23 +340,22 @@ while(alive) {
                     │ Data Structs  │
                     │ & Algorithms  │
                     └───────┬───────┘
-                            │
              ┌──────────────┼──────────────┐
              ▼              ▼              ▼
            DBMS             OS         Networking
              │              │              │
              └──────────────┼──────────────┘
                             ▼
-                    Backend Engineering
+                     Backend Engineering
                             │
                             ▼
-                     System Design
+                      System Design
                             │
                             ▼
-                 Distributed Systems
+                  Distributed Systems
                             │
                             ▼
-                    🚀 Build at Scale
+                     🚀 Build at Scale
 ```
 
 ---
