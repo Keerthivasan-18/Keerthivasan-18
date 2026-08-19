@@ -321,10 +321,12 @@ while(alive) {
 # 📈 Account Activity
 
 <p align="center">
-  <img src="YOUR_ACCOUNT_ACTIVITY_GRAPH_URL" alt="Account Activity Line Graph" />
+  <img src="assets/account-activity.png" alt="Keerthivasan Account Activity Graph" width="100%" />
 </p>
 
-> Tracking my account activity and usage over time.
+<p align="center">
+  <b>Account activity over time</b>
+</p>
 
 ---
 
